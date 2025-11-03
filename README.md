@@ -48,6 +48,12 @@ My work focuses on creating systems that make **finance**, **learning**, and **m
 
 ---
 
+## 🧠 Now Coding  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00EFFF&width=700&lines=⚙️+Working+on+Zeni's+automated+wallet+logic...;🧩+Integrating+Co-op+Connect+API+for+STK+Push+transactions...;💬+Refining+Fluent+Meeting's+realtime+engine...;🚀+Sketching+Zuru+Payments+architecture...)](https://git.io/typing-svg)
+
+---
+
 ## 📊 GitHub Insights  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JhnOkall&theme=tokyonight)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhnOkall&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
@@ -58,7 +64,6 @@ My work focuses on creating systems that make **finance**, **learning**, and **m
 ## 🏆 Trophies & Activity  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JhnOkall&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhnOkall&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
@@ -74,7 +79,7 @@ My work focuses on creating systems that make **finance**, **learning**, and **m
 
 ## 💬 Connect with Me  
 
-💼 **LinkedIn:** [linkedin.com/in/okall](linkedin.com/in/okall)
+💼 **LinkedIn:** [linkedin.com/in/okall](https://linkedin.com/in/okall)  
 📫 **Email:** [john@zeni.co.ke](mailto:john@zeni.co.ke)  
 
 ---
